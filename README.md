@@ -1,3 +1,7 @@
+> ## Archived template
+>
+> This template has been archived. You can still use it as a reference, but it is no longer receiving regular updates from our team.
+
 # Drupal 7 for Platform.sh
 
 This template builds a Drupal 7 site using Drush make.
